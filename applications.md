@@ -13,7 +13,7 @@ Erlymon Monitor is an Android  application. It can work with Erlymon/Traccar ope
 
 ## Sources
 
-[Download](https://github.com/pese-git/erlymon-monitor-android)
+[Download](https://github.com/erlymon/erlymon-monitor-android)
 
 ## License
 
