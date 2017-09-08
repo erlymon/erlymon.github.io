@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Erlymon</title>
+    <link>http://erlymon.org/about/</link>
+    <description>Recent content in Abouts on Erlymon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:35 +0200</lastBuildDate>
+    
+	<atom:link href="http://erlymon.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Us</title>
+      <link>http://erlymon.org/about/about/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:35 +0200</pubDate>
+      
+      <guid>http://erlymon.org/about/about/</guid>
+      <description>Erlymon - Open Source GPS Tracking System Erlymon is an open source GPS tracking system for various GPS tracking devices. It includes web interface (view demo) to manage tracking devices online.
+Erlymon is written in Erlang and portable between different unix operating systems and platforms. At the moment installation packages provided for Linux. You can get them from Download page.
+License Erlymon software is licensed under the AGPL Version 3.</description>
+    </item>
+    
+  </channel>
+</rss>

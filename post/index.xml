@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Erlymon</title>
+    <link>http://erlymon.org/post/</link>
+    <description>Recent content in Posts on Erlymon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 18 Jul 2015 14:08:29 +0200</lastBuildDate>
+    
+	<atom:link href="http://erlymon.org/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desktop</title>
+      <link>http://erlymon.org/post/01-desktop/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:29 +0200</pubDate>
+      
+      <guid>http://erlymon.org/post/01-desktop/</guid>
+      <description>Allows you to access your objects anywhere on the planet. Because it uses a Web interface. You can use any browser and any operating system.
+Proceed to the Demo Server</description>
+    </item>
+    
+    <item>
+      <title>Mobile</title>
+      <link>http://erlymon.org/post/02-mobile/</link>
+      <pubDate>Sat, 18 Jul 2015 14:08:45 +0200</pubDate>
+      
+      <guid>http://erlymon.org/post/02-mobile/</guid>
+      <description>Allows you to access your objects anywhere on the planet. As we developed the mobile client for the OS Android.
+Erlymon Monitor 
+Overview Erlymon Monitor is an Android application. It can work with Erlymon/Traccar open source server software.
+Sources Download</description>
+    </item>
+    
+    <item>
+      <title>Supported devices</title>
+      <link>http://erlymon.org/post/03-devices/</link>
+      <pubDate>Sat, 18 Jul 2015 14:53:21 +0200</pubDate>
+      
+      <guid>http://erlymon.org/post/03-devices/</guid>
+      <description>You can get support device list Devices page. If your device is not in this list, please create a new issue in bug tracker or simply contact me by email support@erlymon.org. If you send me enough information about your device, I will add its support in the near future.</description>
+    </item>
+    
+  </channel>
+</rss>
